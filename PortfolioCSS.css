@@ -1,0 +1,26 @@
+header{
+	text-align: right;
+	background: url("");
+	background-size: cover;
+	color: black;
+	font-family: arial;
+}
+footer{
+	text-align: center;
+	background: url("");
+	background-size: cover;
+	color: white;
+	font-family: arial;
+}
+a{
+	color: black;
+}
+ul{
+	
+	padding: 10px;
+}
+li{
+	display: inline;
+	padding: 0px 10px 0px 10px;
+	font-size: 1.5em;
+}
